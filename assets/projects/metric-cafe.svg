@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#061424"/>
+  <rect x="72" y="72" width="1056" height="656" rx="22" fill="#072733"/>
+  <g transform="translate(120,120)">
+    <text x="0" y="52" fill="#ffffff" font-family="Segoe UI, Arial" font-size="38" font-weight="700">Metric Café</text>
+    <text x="0" y="92" fill="#bfe7d8" font-family="Segoe UI, Arial" font-size="18">Food & Beverage</text>
+
+    <g transform="translate(0,140)">
+      <rect width="360" height="220" rx="10" fill="#0d3b32"/>
+      <text x="20" y="40" fill="#e9fff7" font-family="Segoe UI" font-size="16">Menu Design</text>
+    </g>
+
+    <g transform="translate(420,140)">
+      <rect width="480" height="220" rx="10" fill="#083a31"/>
+      <text x="24" y="44" fill="#dff7ef" font-family="Segoe UI" font-size="16">Promotional Materials</text>
+    </g>
+  </g>
+</svg>

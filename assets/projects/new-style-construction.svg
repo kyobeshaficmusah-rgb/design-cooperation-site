@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#051826"/>
+  <rect x="60" y="72" width="1080" height="656" rx="26" fill="#082936" stroke="#004b7a" stroke-opacity="0.12"/>
+  <g transform="translate(96,120)">
+    <rect width="520" height="520" rx="12" fill="#062a3b"/>
+    <text x="40" y="64" fill="#ffffff" font-family="Segoe UI, Arial" font-size="36" font-weight="700">New Style Construction</text>
+    <text x="40" y="104" fill="#9fcfdc" font-family="Segoe UI, Arial" font-size="18">Construction & Engineering</text>
+
+    <g transform="translate(40,140)">
+      <rect width="420" height="16" rx="6" fill="#0e94a2"/>
+      <rect y="36" width="360" height="12" rx="6" fill="#105b66"/>
+    </g>
+
+    <g transform="translate(560,180)">
+      <rect width="420" height="340" rx="14" fill="#0b2b3d"/>
+      <g fill="#13a89a">
+        <rect x="48" y="40" width="120" height="120" rx="8"/>
+        <rect x="192" y="40" width="120" height="120" rx="8"/>
+        <rect x="336" y="40" width="120" height="120" rx="8"/>
+      </g>
+    </g>
+  </g>
+</svg>

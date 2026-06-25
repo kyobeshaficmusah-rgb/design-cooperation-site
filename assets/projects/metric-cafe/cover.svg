@@ -1,0 +1,26 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="cafeTitle cafeDesc">
+  <title id="cafeTitle">Metric Café menu and branding mockup</title>
+  <desc id="cafeDesc">A premium cafe branding image with coffee packaging and menu visuals.</desc>
+  <defs>
+    <linearGradient id="cafe-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a1e12" />
+      <stop offset="100%" stop-color="#6b4f36" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#cafe-bg)" />
+  <rect x="140" y="160" width="520" height="540" rx="42" fill="#ffffff" opacity="0.14" />
+  <rect x="190" y="220" width="420" height="160" rx="30" fill="#f5dfc5" />
+  <text x="230" y="310" font-family="Inter, system-ui, sans-serif" font-size="58" font-weight="800" fill="#4b2f1b">Metric</text>
+  <text x="230" y="380" font-family="Inter, system-ui, sans-serif" font-size="42" fill="#4b2f1b">Café</text>
+  <rect x="190" y="420" width="420" height="22" rx="11" fill="#4b2f1b" opacity="0.55" />
+  <rect x="190" y="460" width="260" height="18" rx="9" fill="#4b2f1b" opacity="0.45" />
+  <circle cx="420" cy="620" r="100" fill="#f9e8db" />
+  <path d="M410 560c10-28 32-50 64-50s54 22 64 50" stroke="#4b2f1b" stroke-width="18" fill="none" stroke-linecap="round" />
+  <path d="M420 635c12 10 32 16 54 16s42-6 54-16" stroke="#4b2f1b" stroke-width="16" fill="none" />
+  <rect x="820" y="220" width="540" height="420" rx="40" fill="#ffffff" opacity="0.16" />
+  <rect x="880" y="280" width="440" height="120" rx="34" fill="#fff1e0" />
+  <text x="920" y="350" font-family="Inter, system-ui, sans-serif" font-size="38" font-weight="700" fill="#5b3a2e">Menu & packaging</text>
+  <text x="920" y="400" font-family="Inter, system-ui, sans-serif" font-size="26" fill="#5b3a2e">Printed café touchpoints</text>
+  <rect x="920" y="440" width="320" height="28" rx="14" fill="#5b3a2e" opacity="0.18" />
+  <rect x="920" y="490" width="240" height="28" rx="14" fill="#5b3a2e" opacity="0.18" />
+</svg>

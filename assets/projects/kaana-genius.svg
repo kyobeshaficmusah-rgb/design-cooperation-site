@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#00a896"/>
+      <stop offset="1" stop-color="#004b7a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#071424"/>
+  <rect x="48" y="64" width="1104" height="672" rx="28" fill="url(#g1)" opacity="0.12"/>
+  <g transform="translate(96,120)">
+    <rect width="360" height="520" rx="18" fill="#0b2b3d"/>
+    <rect x="384" width="720" height="120" rx="12" fill="#071424"/>
+    <text x="40" y="84" fill="#ffffff" font-family="Segoe UI, Arial" font-size="36" font-weight="700">Kaana Genius</text>
+    <text x="40" y="130" fill="#a8dcd4" font-family="Segoe UI, Arial" font-size="20">Publishing • Education</text>
+
+    <g transform="translate(40,170)" fill="#dceff0">
+      <rect width="280" height="18" rx="6"/>
+      <rect y="36" width="220" height="12" rx="6"/>
+      <rect y="60" width="260" height="12" rx="6"/>
+    </g>
+
+    <g transform="translate(460,180)" fill="#0e6072">
+      <rect width="380" height="240" rx="14"/>
+      <text x="24" y="40" fill="#eafbf9" font-family="Segoe UI, Arial" font-size="20" font-weight="600">Children's Book Layout</text>
+      <rect x="24" y="68" width="320" height="12" rx="6" fill="#13a89a"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="engoTitle engoDesc">
+  <title id="engoTitle">Engo Tours travel branding mockup</title>
+  <desc id="engoDesc">A tourism branding image with a safari vehicle, brochure layout, and destination visuals.</desc>
+  <defs>
+    <linearGradient id="engo-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a3f5a" />
+      <stop offset="100%" stop-color="#55a1c9" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#engo-bg)" />
+  <ellipse cx="1260" cy="260" rx="260" ry="140" fill="rgba(255,255,255,0.15)" />
+  <rect x="120" y="180" width="620" height="520" rx="42" fill="#ffffff" opacity="0.16" />
+  <rect x="160" y="220" width="540" height="320" rx="30" fill="#ffffff" />
+  <path d="M320 560c0-62 76-110 170-110s170 48 170 110" stroke="#1a3f5a" stroke-width="32" fill="none" stroke-linecap="round" />
+  <path d="M180 300l110-40 104 190-110 40z" fill="#f0c671" />
+  <rect x="480" y="240" width="210" height="260" rx="26" fill="#1a3f5a" />
+  <path d="M600 300c10-20 40-30 78-30s70 8 80 30" stroke="#ffffff" stroke-width="14" fill="none" />
+  <rect x="160" y="560" width="480" height="160" rx="20" fill="#ffffff" opacity="0.9" />
+  <text x="190" y="620" font-family="Inter, system-ui, sans-serif" font-size="56" font-weight="800" fill="#1a3f5a">Engo Tours</text>
+  <text x="190" y="690" font-family="Inter, system-ui, sans-serif" font-size="32" fill="#1a3f5a">Safari travel branding & brochure design</text>
+  <path d="M920 540c30-80 92-170 188-170 96 0 132 86 156 140" stroke="#f8d06f" stroke-width="30" fill="none" stroke-linecap="round" />
+  <circle cx="1240" cy="620" r="72" fill="#ffffff" opacity="0.28" />
+  <circle cx="1100" cy="740" r="82" fill="#ffea8a" opacity="0.55" />
+  <rect x="900" y="280" width="420" height="260" rx="34" fill="#ffffff" opacity="0.14" />
+  <path d="M970 450h220" stroke="#ffffff" stroke-width="18" stroke-linecap="round" />
+  <path d="M970 520h160" stroke="#ffffff" stroke-width="18" stroke-linecap="round" />
+</svg>
